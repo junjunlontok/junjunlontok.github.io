@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: Voxie Bot Ai
+description: Legal pages for the Voxie Bot Ai Android app
+show_downloads: false
+
+# Only the customer-facing pages are published. The setup guide and the SQL folder stay in the repo for you
+# (Play does not need them, and reviewers should only be able to reach the policy and the terms).
+exclude:
+  - SETUP-GOOGLE.md
+  - sql/

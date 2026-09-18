@@ -1,0 +1,7 @@
+# Voxie Bot Ai — app-ads.txt
+# Replace pub-0000000000000000 with your AdMob publisher ID, commit, and push to main.
+# GitHub Pages serves this at https://junjunlontok.github.io/app-ads.txt (the user-site repo
+# `junjunlontok.github.io`, so the file sits at the HOST ROOT — which is where AdMob looks for it).
+# Set https://junjunlontok.github.io/ as the "developer website" in the Play Store listing so AdMob can
+# verify it. (A /voxie-bot/app-ads.txt path would NOT be found by AdMob.)
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
