@@ -12,7 +12,7 @@ Published pages for the Android app **Voxie Bot Ai** (`com.aistudio.auracompanio
 | Privacy Policy | [privacy-policy.html](privacy-policy.html) |
 | Terms & Conditions | [terms-and-conditions.html](terms-and-conditions.html) |
 
-**Contact:** [YOUR SUPPORT EMAIL]
+**Contact:** junjunlontok@gmail.com
 
 > These pages are served by GitHub Pages from the `junjunlontok.github.io` repository (see
 > `docs/SETUP-GOOGLE.md` §1 in the app project).

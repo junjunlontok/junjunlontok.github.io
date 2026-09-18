@@ -5,10 +5,10 @@ title: Terms & Conditions — Voxie Bot Ai
 
 # Terms & Conditions — Voxie Bot Ai
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** September 18, 2026
 **App:** Voxie Bot Ai (`com.aistudio.auracompanion.vkmz`)
-**Provider:** [YOUR NAME OR COMPANY] ("we", "us")
-**Contact:** [YOUR SUPPORT EMAIL]
+**Provider:** junjunlontok ("we", "us")
+**Contact:** junjunlontok@gmail.com
 
 ## 1. Acceptance
 By installing or using Voxie Bot Ai ("the app") you agree to these Terms and to the Privacy Policy
@@ -92,7 +92,7 @@ these Terms or use the app unlawfully. Sections that by their nature should surv
 disclaimers, liability, governing law) survive termination.
 
 ## 13. Governing law and disputes
-These Terms are governed by the laws of **[YOUR JURISDICTION, e.g. the Republic of the Philippines]**,
+These Terms are governed by the laws of **Republic of the Philippines**,
 without regard to conflict-of-law rules. Disputes will be brought before the courts of that jurisdiction,
 unless your local consumer law gives you the right to sue where you live. If any provision is found
 unenforceable, the rest remains in effect. Our failure to enforce a provision is not a waiver.
@@ -103,7 +103,7 @@ version, and material changes will be highlighted in the app or on this page. Co
 means you accept the new Terms.
 
 ## 15. Contact
-Questions about these Terms: **[YOUR SUPPORT EMAIL]**.
+Questions about these Terms: **junjunlontok@gmail.com**.
 
 - Payments are processed by **Google Play**. Prices, taxes and refunds follow Play's rules and your local
   consumer law. We never receive your card details.

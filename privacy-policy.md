@@ -5,10 +5,10 @@ title: Privacy Policy — Voxie Bot Ai
 
 # Privacy Policy — Voxie Bot Ai
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** September 18, 2026
 **App:** Voxie Bot Ai (`com.aistudio.auracompanion.vkmz`)
-**Developer:** [YOUR NAME OR COMPANY]
-**Contact:** [YOUR SUPPORT EMAIL]
+**Developer:** junjunlontok
+**Contact:** junjunlontok@gmail.com
 
 This policy explains what the Voxie Bot Ai Android app ("Voxie", "the app") does with your
 information. It is written to match what the app actually does — if a feature is disabled in your build
@@ -102,7 +102,7 @@ Signing in is optional and is used so your balance and data survive a reinstall 
 ## 5. Retention and deletion
 - **Local data** is kept until you delete a record in **Tracked Data**, clear the app's data in Android
   Settings, or uninstall the app.
-- **Account data** is kept while your account exists. You can request deletion at [YOUR SUPPORT EMAIL]
+- **Account data** is kept while your account exists. You can request deletion at junjunlontok@gmail.com
   (or from the in-app account screen when it is available); we delete the account record and its synced
   notes within 30 days, except where we must keep purchase records for tax/legal reasons.
 - **Purchase records** are held by Google Play under Google's policies; deleting your Voxie account does
@@ -117,7 +117,7 @@ we will delete it.
 ## 7. Your rights
 Depending on where you live you may have the right to access, correct, export or delete your data, to
 object to certain processing, and to withdraw consent (for example by turning off the microphone permission
-or ads personalisation). Email [YOUR SUPPORT EMAIL] and we will respond within the period required by law.
+or ads personalisation). Email junjunlontok@gmail.com and we will respond within the period required by law.
 You may also complain to your local data-protection authority.
 
 ## 8. Third-party services
@@ -145,7 +145,7 @@ We may update this policy when the app changes. The "Effective date" above alway
 version, and material changes will be highlighted in the app or on this page.
 
 ## 12. Contact
-Questions, deletion requests or complaints: **[YOUR SUPPORT EMAIL]**.
+Questions, deletion requests or complaints: **junjunlontok@gmail.com**.
 
 Translate / Wake Voxie from the widget without opening the app) · `VIBRATE`, `WAKE_LOCK` (feedback and to
 keep a running task alive). The app requests no storage, contacts, location, camera or SMS permissions.
